@@ -1,4 +1,4 @@
-# Projeto-FPA-GP4: Gerenciamento de Receitas
+# Projeto-FPA-GP7: Gerenciamento de Receitas
 
 ## 1. Descrição
 
